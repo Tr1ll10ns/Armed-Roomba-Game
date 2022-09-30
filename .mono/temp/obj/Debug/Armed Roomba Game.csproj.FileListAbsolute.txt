@@ -1,9 +1,0 @@
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\bin\Debug\Armed Roomba Game.dll
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\bin\Debug\Armed Roomba Game.pdb
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\obj\Debug\Armed Roomba Game.csproj.AssemblyReference.cache
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\obj\Debug\Armed Roomba Game.GeneratedMSBuildEditorConfig.editorconfig
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\obj\Debug\Armed Roomba Game.AssemblyInfoInputs.cache
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\obj\Debug\Armed Roomba Game.AssemblyInfo.cs
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\obj\Debug\Armed Roomba Game.csproj.CoreCompileInputs.cache
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\obj\Debug\Armed Roomba Game.dll
-D:\Godot\Projects\Armed Roomba Game\.mono\temp\obj\Debug\Armed Roomba Game.pdb
