@@ -9,6 +9,12 @@ public class Player : KinematicBody2D
     public int Hearts = 3;
     [Export]
     public int Speed_Pixels = 20;
+    [Export]
+    public float RotationInterpolationRate = 0.1f;
+
+    public Ability Ability1;
+    public Ability Ability2;
+    public Ability Ability3;
 
     public override void _PhysicsProcess(float delta)
     {
@@ -33,6 +39,7 @@ public class Player : KinematicBody2D
 
         if (movementVector != Vector2.Zero)
         {
+            GlobalRotation = Mathf.LerpAngle(GlobalRotation, Vector2.Right.AngleTo(movementVector), RotationInterpolationRate);
             MoveAndSlide(Speed_Pixels * movementVector.Normalized() * 1000 * delta);
         }
     }
